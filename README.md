@@ -1,6 +1,6 @@
 ## Hello 👋🏾  welcome to my page  
-<p>< width="100" align='center'
-[![Header](./tenor.gif "Header")](https://www.linkedin.com/in/alieu-sagnia-/)>
+<p>
+[![Header](./tenor.gif "Header")] width="100" align='center'(https://www.linkedin.com/in/alieu-sagnia-/)
 </p>
 ### I'm Alieu Sagnia an I.T Consultant, Full stack Developer, DevOps engineer,Crypto enthusiast, Designer & Creator
 
