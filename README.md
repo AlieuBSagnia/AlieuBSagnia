@@ -3,7 +3,7 @@
 ### I'm Alieu B Sagnia an I.T Consultant, Full stack Developer, DevOps engineer, Crypto enthusiast, Designer & Creator  
 
 ## [![Header](./linkedin.png)](https://www.linkedin.com/in/alieu-sagnia-/)
-## [![Header](./instagram.jpg)](https://www.instagram.com/alieu0291/)
+## [![Header](./instagram.png)](https://www.instagram.com/alieu0291/)
 ## [![Header](./twitter.png)](https://twitter.com/alieu0291)
 
 ## 💬 About me ...
