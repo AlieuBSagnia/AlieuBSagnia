@@ -24,9 +24,8 @@ IT Engineer with a track record of understanding complex technical problems and 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Terrafrom-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-![](./html5.svg/Code-HTML-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-## &#x1f4c8; GitHub Stats
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
+## &#x1f4c8; GitHub Stats digitalocean
 
 <a href="https://github.com/alieubsagnia/alieubsagnia">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alieubsagnia&hide=php,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8"/>
