@@ -35,12 +35,12 @@ IT Engineer with a track record of understanding complex technical problems and 
 </a>
 
 <a href="https://github.com/Coeus-Group/coeus-news-portal-reactfrontend">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Coeus-Group&repo=coeus-news-portal-reactfrontend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeus-Group&repo=coeus-news-portal-reactfrontend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
 <a href="https://github.com/AlieuBSagnia/UberAppProject">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=alieubsagnia&repo=UberAppProject&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alieubsagnia&repo=UberAppProject&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
