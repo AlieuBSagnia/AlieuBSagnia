@@ -1,4 +1,4 @@
-[![Header](./readme_header.png "Header")](https://some-url.dev/)
+[![Header](./tenor.gif "Header")](https://some-url.dev/)
 ### Hi there 👋
 
 ## 💬 About me ...
