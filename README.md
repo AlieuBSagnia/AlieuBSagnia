@@ -25,7 +25,7 @@ IT Engineer with a track record of understanding complex technical problems and 
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Terrafrom-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-
+![](./html5.svg/Code-HTML-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/alieubsagnia/alieubsagnia">
