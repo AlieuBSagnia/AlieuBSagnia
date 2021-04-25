@@ -19,7 +19,7 @@ IT Engineer with a track record of understanding complex technical problems and 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alieubsagnia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Alieu's GitHub Stats" />
 </a>
 <a href="https://github.com/Coeus-Group/coeus-news-portal-reactfrontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alieubsagnia&repo=coeus-news-portal-reactfrontend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeus-Group&repo=coeus-news-portal-reactfrontend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
