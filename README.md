@@ -1,8 +1,9 @@
-[![Header](./tenor.gif "Header")](https://some-url.dev/)
+[![Header](./tenor.gif "Header")](https://www.linkedin.com/in/alieu-sagnia-/)
 ### Hi there 👋
+[![Header](./linkedin.png "Header")](https://www.linkedin.com/in/alieu-sagnia-/)
 
 ## 💬 About me ...
-IT Engineer with a track record of understanding complex technical problems and transforming them into sustainable and diverse enterprise solutions in the cloud. Certified in AWS and also demonstrated a strong technical proficiency in automation and configuration tools including Jenkins & Terraform. Advanced interpersonal skills to engage and manage clients and teams, in order to implement dynamic processes. Experience working with different Linux flavors (Ubuntu, CentOS, and Debian). Setting up networks and routers with an information technology certification from Cisco Systems (CCNA)
+IT Engineer with a track record of understanding complex technical problems and transforming them into sustainable and diverse enterprise solutions in the cloud. Certified in AWS and advanced technical proficiency in automation and configuration tools including Jenkins & Terraform. Advanced interpersonal skills to engage and manage clients and teams, in order to implement dynamic processes. Experience working with different Linux flavors (Ubuntu, CentOS, and Debian). Setting up networks and routers with an information technology certification from Cisco Systems (CCNA)
 <!--
 **AlieuBSagnia/AlieuBSagnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
