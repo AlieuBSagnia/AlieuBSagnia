@@ -6,7 +6,7 @@
 
 ## 💬 About me ...
 
-<img src="./waving.gif" width="30px">
+<img src="raw./waving.gif" width="30px">
 
 IT Engineer with a track record of understanding complex technical problems and transforming them into sustainable and diverse enterprise solutions in the cloud. Certified in AWS and advanced technical proficiency in automation and configuration tools including Jenkins & Terraform. Advanced interpersonal skills to engage and manage clients and teams, in order to implement dynamic processes. Experience working with different Linux flavors (Ubuntu, CentOS, and Debian). Setting up networks and routers with an information technology certification from Cisco Systems (CCNA)
 <!--
