@@ -17,7 +17,7 @@ IT Engineer with a track record of understanding complex technical problems and 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=CSS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
@@ -26,6 +26,7 @@ IT Engineer with a track record of understanding complex technical problems and 
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Terrafrom-informational?style=flat&logo=terrafrom&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-web-services&logoColor=white&color=2bbc8a)
+
 ## &#x1f4c8; GitHub Stats digitalocean
 
 <a href="https://github.com/alieubsagnia/alieubsagnia">
