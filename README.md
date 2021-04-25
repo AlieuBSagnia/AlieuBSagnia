@@ -1,7 +1,7 @@
 [![Header](./tenor.gif "Header")](https://www.linkedin.com/in/alieu-sagnia-/)
 ## Hello 👋🏾  welcome to my page      
 
-### I'm Alieu Sagnia an I.T Consultant, Full stack Developer, DevOps engineer,Crypto enthusiast, Designer & Creator
+### I'm Alieu Sagnia an I.T Consultant, Full stack Developer, DevOps engineer, Crypto enthusiast, Designer & Creator
 
 ## [![Header](./linkedin.png)](https://www.linkedin.com/in/alieu-sagnia-/)  [![Header](./twitter.png)](https://twitter.com/alieu0291)   [![Header](./instagram.png)](https://www.instagram.com/alieu0291/)
 
@@ -28,7 +28,7 @@ IT Engineer with a track record of understanding complex technical problems and 
 ![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-AWS&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats digitalocean
+## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/alieubsagnia/alieubsagnia">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alieubsagnia&hide=php,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8"/>
