@@ -1,7 +1,7 @@
 ## Hello 👋🏾  welcome to my page  [![Header](./tenor.gif "Header")](https://www.linkedin.com/in/alieu-sagnia-/)
 ### I'm Alieu Sagnia an I.T Consultant, Full stack Developer, DevOps engineer,Crypto enthusiast, Designer & Creator
 
-![https://www.linkedin.com/in/alieu-sagnia-/](https://img.shields.io/badge/-Instagram-informational?style=flat&logo=instagram&logoColor=white&color=2bbc8a)
+![src="https://www.linkedin.com/in/alieu-sagnia-/"](https://img.shields.io/badge/-Instagram-informational?style=flat&logo=instagram&logoColor=white&color=2bbc8a src="https://www.linkedin.com/in/alieu-sagnia-/")
 
 ## [![Header](./linkedin.png)](https://www.linkedin.com/in/alieu-sagnia-/)  [![Header](./twitter.png)](https://twitter.com/alieu0291)   [![Header](./instagram.png)](https://www.instagram.com/alieu0291/)
 
