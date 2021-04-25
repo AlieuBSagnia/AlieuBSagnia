@@ -1,7 +1,3 @@
-<link rel="stylesheet" href="https://unpkg.com/blocks.css/dist/blocks.min.css" />
-
-<button class="block">Hello, World!</button>
-
 ## Hello 👋🏾  welcome to my page  [![Header](./tenor.gif "Header")](https://www.linkedin.com/in/alieu-sagnia-/)
 ### I'm Alieu Sagnia an I.T Consultant, Full stack Developer, DevOps engineer,Crypto enthusiast, Designer & Creator
 
