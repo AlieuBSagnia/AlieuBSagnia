@@ -1,5 +1,5 @@
-### [![Header](./tenor.gif "Header")](https://www.linkedin.com/in/alieu-sagnia-/)
-### Hi there 👋 welcome to my page
+## [![Header](./tenor.gif "Header")](https://www.linkedin.com/in/alieu-sagnia-/)
+## Hi there 👋 welcome to my page
 
 ## [![Header](./linkedin.png)](https://www.linkedin.com/in/alieu-sagnia-/)
 
